@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\majch\\OneDrive\\Dokumenty\\Wojtek\\STUDIA\\Tutoring\\Project\\CircleMover\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0459378E-9C8B-4C86-BBEA-674051EFB7B7}|CircleMover.csproj|C:\\Users\\majch\\OneDrive\\Dokumenty\\Wojtek\\STUDIA\\Tutoring\\Project\\CircleMover\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0459378E-9C8B-4C86-BBEA-674051EFB7B7}|CircleMover.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0459378E-9C8B-4C86-BBEA-674051EFB7B7}|CircleMover.csproj|C:\\Users\\majch\\OneDrive\\Dokumenty\\Wojtek\\STUDIA\\Tutoring\\Project\\CircleMover\\thinggearcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0459378E-9C8B-4C86-BBEA-674051EFB7B7}|CircleMover.csproj|solutionrelative:thinggearcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0459378E-9C8B-4C86-BBEA-674051EFB7B7}|CircleMover.csproj|c:\\users\\majch\\onedrive\\dokumenty\\wojtek\\studia\\tutoring\\project\\circlemover\\thinkgeardata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0459378E-9C8B-4C86-BBEA-674051EFB7B7}|CircleMover.csproj|solutionrelative:thinkgeardata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0459378E-9C8B-4C86-BBEA-674051EFB7B7}|CircleMover.csproj|C:\\Users\\majch\\OneDrive\\Dokumenty\\Wojtek\\STUDIA\\Tutoring\\Project\\CircleMover\\thinkgearhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0459378E-9C8B-4C86-BBEA-674051EFB7B7}|CircleMover.csproj|solutionrelative:thinkgearhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\majch\\OneDrive\\Dokumenty\\Wojtek\\STUDIA\\Tutoring\\Project\\CircleMover\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\majch\\OneDrive\\Dokumenty\\Wojtek\\STUDIA\\Tutoring\\Project\\CircleMover\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T15:35:27.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ThinkGearHelper.cs",
+              "DocumentMoniker": "C:\\Users\\majch\\OneDrive\\Dokumenty\\Wojtek\\STUDIA\\Tutoring\\Project\\CircleMover\\ThinkGearHelper.cs",
+              "RelativeDocumentMoniker": "ThinkGearHelper.cs",
+              "ToolTip": "C:\\Users\\majch\\OneDrive\\Dokumenty\\Wojtek\\STUDIA\\Tutoring\\Project\\CircleMover\\ThinkGearHelper.cs",
+              "RelativeToolTip": "ThinkGearHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T13:07:01.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ThinkGearData.cs",
+              "DocumentMoniker": "C:\\Users\\majch\\OneDrive\\Dokumenty\\Wojtek\\STUDIA\\Tutoring\\Project\\CircleMover\\ThinkGearData.cs",
+              "RelativeDocumentMoniker": "ThinkGearData.cs",
+              "ToolTip": "C:\\Users\\majch\\OneDrive\\Dokumenty\\Wojtek\\STUDIA\\Tutoring\\Project\\CircleMover\\ThinkGearData.cs",
+              "RelativeToolTip": "ThinkGearData.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwBoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T13:07:00.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ThingGearController.cs",
+              "DocumentMoniker": "C:\\Users\\majch\\OneDrive\\Dokumenty\\Wojtek\\STUDIA\\Tutoring\\Project\\CircleMover\\ThingGearController.cs",
+              "RelativeDocumentMoniker": "ThingGearController.cs",
+              "ToolTip": "C:\\Users\\majch\\OneDrive\\Dokumenty\\Wojtek\\STUDIA\\Tutoring\\Project\\CircleMover\\ThingGearController.cs",
+              "RelativeToolTip": "ThingGearController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAFkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T13:06:33.654Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
